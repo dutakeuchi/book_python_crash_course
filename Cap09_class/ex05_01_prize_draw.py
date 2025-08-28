@@ -11,3 +11,8 @@ class Lottery:
     def prize_drawn(self):
         numbers_drawn = sample(self.drawn, k=4)
         return numbers_drawn
+
+# %%
+asd = Lottery()
+asd.prize_drawn()
+# %%
