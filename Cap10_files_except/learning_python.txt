@@ -1,0 +1,9 @@
+In this book we learned:
+What variable is and how to manipulate it.
+The conception of lists and how to work with.
+If else functions and how powerfull they are.
+Dictionaries and its importance.
+How to use loops and inputs to make better codes.
+How to create functions.
+Work with class and make coding easier.
+Work with files.
